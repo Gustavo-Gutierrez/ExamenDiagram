@@ -24,7 +24,7 @@ window.Echo = new Echo({
     wsHost: window.location.hostname,
     wsPort: 6001,
     forceTLS: false,
-    disableStats: true,
+    disableStats: true, 
 });
 
 // import Echo from 'laravel-echo';
